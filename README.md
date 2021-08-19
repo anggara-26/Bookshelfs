@@ -1,6 +1,10 @@
 # Bookshelfs
-simple bookshelfs submission project
+
+[Bookshelfs](https://bookshelf-anggara.netlify.app/) that store your book
+Please check it [here](https://bookshelf-anggara.netlify.app/)!
+
 ## Guide
+
 Here's the step:
 - Open New Book section on navbar.
 - Write your title, author, published year, and category.
