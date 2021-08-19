@@ -1,8 +1,8 @@
 # Bookshelfs
 
-[Bookshelfs](https://bookshelf-anggara.netlify.app/) that store your book
+<a href="https://bookshelf-anggara.netlify.app/" target="_blank">Bookshelfs</a> that store your book
 
-Please check it [here](https://bookshelf-anggara.netlify.app/)!
+Please check it <a href="https://bookshelf-anggara.netlify.app/" target="_blank">here</a>!
 
 ## Guide
 
