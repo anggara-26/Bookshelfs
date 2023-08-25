@@ -25,4 +25,4 @@ Here's the step:
 
 Just it, hope you guys like it !!
 
-[https://bookshelfs-vercel.vercel.app/](https://bookshelfs-ten.vercel.app/)
+[https://bookshelfs-ten.vercel.app/](https://bookshelfs-ten.vercel.app/)
